@@ -16,6 +16,15 @@ The **Pensões CRM** project aims to revolutionize how pension funds (both perso
 - **Efficient Management (CRM):** A dedicated dashboard featuring a table view and separated Kanban Pipelines (Individual / Corporate) with Drag & Drop support.
 - **Data Export:** One-click lead export to CSV functionality for easy integration with other marketing tools.
 
+## Screenshots / Platform Interaction:
+<a href="https://github.com/user-attachments/assets/c5104a9c-35e3-40c6-9340-65a9c694204c">View Landing Page</a>
+
+<a href="https://github.com/user-attachments/assets/8fb888e9-1309-494b-bc65-2a2f0808c5e9">Chatbot</a>
+
+<a href="https://github.com/user-attachments/assets/883f50cb-731f-41fd-8a8a-c71ae1013cf2">CRM</a>
+
+<a href="https://github.com/user-attachments/assets/565838eb-7e98-41d9-856e-8aea4a4048f7">Pipeline</a>
+
 ## Process
 
 ### 1. Development Architecture and AI-Assisted Design
