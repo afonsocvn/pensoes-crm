@@ -4,6 +4,9 @@
 
 The **Pensões CRM** project aims to revolutionize how pension funds (both personal and corporate) attract and manage their potential clients. The platform enables lead capture through an optimized landing page featuring an intelligent, AI-assisted chatbot. This eliminates hours of manual screening by automatically and empathetically qualifying potential investors. The primary focus is to optimize the sales team's time and maximize fund subscription opportunities.
 
+## Project Links
+- <a href="https://pensoes-crm.vercel.app/">Try pensoes CRM on Vercel</a>
+
 ## Tech Stack
 - **Framework:** Next.js + React + Tailwind CSS (TSX)
 - **Database & Authentication:** Supabase
